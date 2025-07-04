@@ -16,4 +16,3 @@ This project is an Inventory Management System designed to manage IT assets. It 
 - **Backend**: ASP.NET Core
 - **Frontend**: Angular
 - **Database**: SQL Server
-https://localhost:5001/swagger/index.html
